@@ -453,6 +453,15 @@ a:hover {
     border-radius: 10px;
 }
 
+.contact-action {
+    text-decoration: none;
+    color: #000;
+}
+
+.contact-action:hover {
+    color: #9926f0;
+}
+
 @media (max-width:576px) {
     .pd-5 {
         padding: initial;
